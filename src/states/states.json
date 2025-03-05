@@ -1,0 +1,756 @@
+[
+  {
+    "id": "andhra-pradesh",
+    "name": "Andhra Pradesh",
+    "imageName": "assam",
+    "description": "Andhra Pradesh is a state in southeastern India known for its rich cultural heritage, vibrant festivals, and diverse cuisine. It is renowned for its historical temples, picturesque beaches, and lush green landscapes. The state boasts a thriving film industry and is home to the famous Tirupati Temple, one of the most visited pilgrimage sites in India.",
+    "capital": "Amaravati",
+    "language": "Telugu",
+    "area": "162,968 sq km",
+    "population": "49,386,799",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Handcrafted Kalamkari Art",
+        "description": "Traditional hand-painted Kalamkari art on fabric.",
+        "price": "₹1,500",
+        "image": "kalamkari.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Tirupati Laddu",
+        "description": "Famous sweet offering from the Tirupati Temple.",
+        "price": "₹200",
+        "image": "tirupati_laddu.jpg"
+      }
+    ]
+  },
+  {
+    "id": "arunachal-pradesh",
+    "name": "Arunachal Pradesh",
+    "imageName": "arunachal",
+    "description": "Arunachal Pradesh is a northeastern state characterized by its stunning natural beauty and diverse ethnic groups. It features breathtaking landscapes, including the Eastern Himalayas and lush forests. The state is known for its unique tribal culture, vibrant festivals, and the Tawang Monastery, one of the largest monasteries in India.",
+    "capital": "Itanagar",
+    "language": "English",
+    "area": "83,743 sq km",
+    "population": "1,570,458",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Traditional Handwoven Shawl",
+        "description": "Handwoven shawl with traditional tribal patterns.",
+        "price": "₹2,000",
+        "image": "shawl.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Organic Honey",
+        "description": "Pure and organic honey from local beekeepers.",
+        "price": "₹500",
+        "image": "honey.jpg"
+      }
+    ]
+  },
+  {
+    "id": "assam",
+    "name": "Assam",
+    "imageName": "assam",
+    "description": "Assam is famous for its tea plantations, rich biodiversity, and scenic beauty. The state is home to the Kaziranga National Park, a UNESCO World Heritage site known for its one-horned rhinoceros. Assam's cultural heritage includes traditional dance forms, colorful festivals, and a vibrant culinary scene. The state's Brahmaputra River adds to its natural charm.",
+    "capital": "Dispur",
+    "language": "Assamese",
+    "area": "78,438 sq km",
+    "population": "31,205,576",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Assam Tea",
+        "description": "World-renowned tea with a rich flavor.",
+        "price": "₹300",
+        "image": "assam_tea.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Bamboo Handicrafts",
+        "description": "Traditional bamboo crafts made by local artisans.",
+        "price": "₹800",
+        "image": "bamboo_handicrafts.jpg"
+      }
+    ]
+  },
+  {
+    "id": "bihar",
+    "name": "Bihar",
+    "imageName": "bihar",
+    "description": "Bihar is a state with a deep historical and cultural heritage. It is the birthplace of Buddhism and is home to ancient sites such as Bodh Gaya, where Gautama Buddha attained enlightenment. The state also boasts rich archaeological sites and vibrant folk traditions. Bihar's cultural landscape is marked by diverse festivals and a strong sense of community.",
+    "capital": "Patna",
+    "language": "Hindi",
+    "area": "94,163 sq km",
+    "population": "104,099,452",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Madhubani Paintings",
+        "description": "Traditional Madhubani art paintings from Bihar.",
+        "price": "₹1,200",
+        "image": "madhubani_paintings.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Bihar Handloom Saree",
+        "description": "Elegant handloom sarees made in Bihar.",
+        "price": "₹2,500",
+        "image": "handloom_saree.jpg"
+      }
+    ]
+  },
+  {
+    "id": "chhattisgarh",
+    "name": "Chhattisgarh",
+    "imageName": "chattisgarh",
+    "description": "Chhattisgarh is known for its dense forests, tribal culture, and natural resources. The state offers a variety of experiences, from exploring ancient temples and waterfalls to enjoying local festivals and traditional crafts. Chhattisgarh's unique cultural heritage includes vibrant dance forms and a rich tradition of folk art.",
+    "capital": "Raipur",
+    "language": "Hindi",
+    "area": "135,192 sq km",
+    "population": "29,436,231",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Tribal Artifacts",
+        "description": "Unique tribal artifacts and crafts from Chhattisgarh.",
+        "price": "₹1,000",
+        "image": "tribal_artifacts.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Handwoven Mats",
+        "description": "Beautifully handwoven mats made by local artisans.",
+        "price": "₹600",
+        "image": "handwoven_mats.jpg"
+      }
+    ]
+  },
+  {
+    "id": "goa",
+    "name": "Goa",
+    "imageName": "goa",
+    "description": "Goa, a small coastal state, is renowned for its pristine beaches, vibrant nightlife, and Portuguese heritage. The state's scenic beauty, including palm-fringed beaches and serene backwaters, makes it a popular tourist destination. Goa's colonial architecture, lively festivals, and diverse cuisine contribute to its unique charm.",
+    "capital": "Panaji",
+    "language": "Konkani",
+    "area": "3,702 sq km",
+    "population": "1,458,545",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Goan Feni",
+        "description": "Traditional Goan spirit made from cashew apples.",
+        "price": "₹700",
+        "image": "feni.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Handcrafted Jewelry",
+        "description": "Beautiful jewelry handcrafted by local artisans.",
+        "price": "₹1,500",
+        "image": "handcrafted_jewelry.jpg"
+      }
+    ]
+  },
+  {
+    "id": "gujarat",
+    "name": "Gujarat",
+    "imageName": "gujarat",
+    "description": "Gujarat is known for its rich cultural diversity, historic sites, and economic growth. The state features a mix of ancient temples, majestic palaces, and vibrant festivals. Gujarat is famous for its traditional arts and crafts, diverse cuisine, and the Gir National Park, home to Asiatic lions. The state's economic progress is also marked by its thriving industries and infrastructure.",
+    "capital": "Gandhinagar",
+    "language": "Gujarati",
+    "area": "196,024 sq km",
+    "population": "60,439,692",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Kutch Embroidery",
+        "description": "Traditional embroidery from the Kutch region.",
+        "price": "₹2,000",
+        "image": "kutch_embroidery.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Gujarat Spices",
+        "description": "A variety of aromatic spices from Gujarat.",
+        "price": "₹500",
+        "image": "gujarat_spices.jpg"
+      }
+    ]
+  },
+  {
+    "id": "haryana",
+    "name": "Haryana",
+    "imageName": "haryana",
+    "description": "Haryana, located in northern India, is known for its historical significance, agricultural prosperity, and rapid urban development. The state features a blend of traditional rural life and modern cities. Haryana's cultural heritage includes historical sites, vibrant festivals, and a strong sense of community. The state is also an important center for industry and education.",
+    "capital": "Chandigarh",
+    "language": "Hindi",
+    "area": "44,212 sq km",
+    "population": "28,204,208",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Handloom Dhoti",
+        "description": "Traditional handloom dhoti with intricate designs.",
+        "price": "₹800",
+        "image": "handloom_dhoti.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Haryana Pottery",
+        "description": "Beautifully crafted pottery made by local artisans.",
+        "price": "₹600",
+        "image": "haryana_pottery.jpg"
+      }
+    ]
+  },
+  {
+    "id": "himachal-pradesh",
+    "name": "Himachal Pradesh",
+    "imageName": "himachal",
+    "description": "Himachal Pradesh is known for its stunning mountainous landscapes, serene environment, and diverse cultural heritage. The state offers opportunities for adventure tourism, including trekking, skiing, and paragliding. Himachal Pradesh's beautiful hill stations, ancient temples, and vibrant festivals attract visitors from all over India and the world.",
+    "capital": "Shimla",
+    "language": "Hindi",
+    "area": "55,538 sq km",
+    "population": "7,430,555",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Woolen Shawls",
+        "description": "Warm and stylish woolen shawls handwoven in Himachal Pradesh.",
+        "price": "₹1,500",
+        "image": "woolen_shawls.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Himachali Honey",
+        "description": "Pure honey collected from the high-altitude regions of Himachal Pradesh.",
+        "price": "₹600",
+        "image": "himachali_honey.jpg"
+      }
+    ]
+  },
+  {
+    "id": "jammu-and-kashmir",
+    "name": "Jammu and Kashmir",
+    "imageName": "jammu",
+    "description": "Jammu and Kashmir is renowned for its breathtaking natural beauty, including the picturesque Dal Lake, lush gardens, and majestic mountains. The state offers a rich cultural heritage with traditional crafts, vibrant festivals, and historic monuments. It is a major destination for tourism, especially for those seeking adventure and tranquility.",
+    "capital": "Srinagar",
+    "language": "Urdu",
+    "area": "222,236 sq km",
+    "population": "12,541,302",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Kashmiri Carpets",
+        "description": "Exquisite hand-knotted carpets from Kashmir.",
+        "price": "₹5,000",
+        "image": "kashmiri_carpets.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Pashmina Shawls",
+        "description": "Luxurious Pashmina shawls made from fine wool.",
+        "price": "₹3,500",
+        "image": "pashmina_shawls.jpg"
+      }
+    ]
+  },
+  {
+    "id": "jharkhand",
+    "name": "Jharkhand",
+    "imageName": "jharkhand",
+    "description": "Jharkhand is characterized by its rich mineral resources, dense forests, and tribal culture. The state features a variety of natural attractions, including waterfalls and wildlife sanctuaries. Jharkhand's cultural diversity is reflected in its traditional crafts, festivals, and vibrant tribal art.",
+    "capital": "Ranchi",
+    "language": "Hindi",
+    "area": "79,714 sq km",
+    "population": "38,287,157",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Tribal Jewelry",
+        "description": "Handcrafted jewelry made by the tribal communities of Jharkhand.",
+        "price": "₹1,200",
+        "image": "tribal_jewelry.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Handwoven Baskets",
+        "description": "Traditional handwoven baskets made from natural materials.",
+        "price": "₹700",
+        "image": "handwoven_baskets.jpg"
+      }
+    ]
+  },
+  {
+    "id": "karnataka",
+    "name": "Karnataka",
+    "imageName": "karnataka",
+    "description": "Karnataka is known for its rich cultural heritage, historic sites, and diverse landscapes. The state features a mix of historical temples, bustling cities, and serene beaches. Karnataka's cultural diversity is reflected in its traditional music, dance forms, and cuisine. The state is also an important center for technology and industry.",
+    "capital": "Bengaluru",
+    "language": "Kannada",
+    "area": "191,791 sq km",
+    "population": "69,086,379",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Mysore Silk",
+        "description": "Elegant silk sarees produced in Mysore.",
+        "price": "₹2,500",
+        "image": "mysore_silk.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Coorg Coffee",
+        "description": "Rich and aromatic coffee from the Coorg region.",
+        "price": "₹400",
+        "image": "coorg_coffee.jpg"
+      }
+    ]
+  },
+  {
+    "id": "kerala",
+    "name": "Kerala",
+    "imageName": "kerala",
+    "description": "Kerala, known as 'God's Own Country,' is famous for its backwaters, lush green landscapes, and tranquil beaches. The state is renowned for its unique culture, Ayurvedic treatments, and vibrant festivals. Kerala offers a blend of natural beauty and cultural experiences, making it a popular destination for tourists seeking relaxation and adventure.",
+    "capital": "Thiruvananthapuram",
+    "language": "Malayalam",
+    "area": "38,863 sq km",
+    "population": "35,698,044",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Kochi Spice Mix",
+        "description": "A blend of aromatic spices from Kochi.",
+        "price": "₹350",
+        "image": "kochispice_mix.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Kerala Saris",
+        "description": "Traditional saris with intricate designs and embroidery.",
+        "price": "₹1,800",
+        "image": "kerala_saris.jpg"
+      }
+    ]
+  },
+  {
+    "id": "madhya-pradesh",
+    "name": "Madhya Pradesh",
+    "imageName": "madhyapradesh",
+    "description": "Madhya Pradesh is centrally located in India and is known for its rich history, archaeological sites, and diverse wildlife. The state features ancient temples, forts, and a variety of national parks. Madhya Pradesh's cultural heritage includes traditional dance forms, festivals, and a strong sense of history and tradition.",
+    "capital": "Bhopal",
+    "language": "Hindi",
+    "area": "308,350 sq km",
+    "population": "82,707,964",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Chanderi Fabric",
+        "description": "Handwoven fabric from Chanderi with intricate patterns.",
+        "price": "₹1,000",
+        "image": "chanderi_fabric.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Madhubani Art",
+        "description": "Traditional Madhubani paintings with vivid colors.",
+        "price": "₹1,500",
+        "image": "madhubani_art.jpg"
+      }
+    ]
+  },
+  {
+    "id": "maharashtra",
+    "name": "Maharashtra",
+    "imageName": "maharashta",
+    "description": "Maharashtra is known for its vibrant culture, historic landmarks, and economic significance. The state features a mix of bustling cities, serene beaches, and scenic hill stations. Maharashtra's cultural diversity is reflected in its festivals, cuisine, and traditional arts. The state's economic strength is marked by its thriving industries and cosmopolitan lifestyle.",
+    "capital": "Mumbai",
+    "language": "Marathi",
+    "area": "307,713 sq km",
+    "population": "112,374,333",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Kolhapuri Chappals",
+        "description": "Traditional handcrafted sandals from Kolhapur.",
+        "price": "₹1,200",
+        "image": "kolhapuri_chappals.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Pune Pithla",
+        "description": "Traditional Pithla, a spicy Maharashtrian dish.",
+        "price": "₹300",
+        "image": "pune_pithla.jpg"
+      }
+    ]
+  },
+  {
+    "id": "manipur",
+    "name": "Manipur",
+    "imageName": "manipur",
+    "description": "Manipur is known for its rich cultural heritage, including traditional dance forms, music, and festivals. The state features picturesque landscapes, including hills, lakes, and rivers. Manipur's cultural identity is reflected in its vibrant arts, crafts, and unique festivals.",
+    "capital": "Imphal",
+    "language": "Meitei",
+    "area": "22,327 sq km",
+    "population": "2,882,529",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Manipuri Handloom",
+        "description": "Beautifully woven handloom products from Manipur.",
+        "price": "₹1,200",
+        "image": "manipuri_handloom.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Manipur Bamboo Crafts",
+        "description": "Intricate bamboo crafts made by local artisans.",
+        "price": "₹800",
+        "image": "manipur_bamboo_crafts.jpg"
+      }
+    ]
+  },
+  {
+    "id": "meghalaya",
+    "name": "Meghalaya",
+    "imageName": "meghalaya",
+    "description": "Meghalaya is known for its stunning natural beauty, including lush green hills, waterfalls, and unique living root bridges. The state offers a rich cultural heritage with traditional festivals, crafts, and music. Meghalaya's natural attractions and cultural vibrancy make it a popular destination for travelers seeking adventure and tranquility.",
+    "capital": "Shillong",
+    "language": "Khasi",
+    "area": "22,429 sq km",
+    "population": "3,587,809",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Shillong Cherrie",
+        "description": "Sweet and tangy cherry preserves from Shillong.",
+        "price": "₹400",
+        "image": "shillong_cherrie.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Meghalaya Bamboo Crafts",
+        "description": "Traditional bamboo crafts from Meghalaya.",
+        "price": "₹1,000",
+        "image": "meghalaya_bamboo_crafts.jpg"
+      }
+    ]
+  },
+  {
+    "id": "mizoram",
+    "name": "Mizoram",
+    "imageName": "mizoram",
+    "description": "Mizoram is known for its picturesque landscapes, including rolling hills, lush greenery, and vibrant tribal culture. The state offers a rich cultural heritage with traditional crafts, music, and festivals. Mizoram's natural beauty and cultural diversity make it an attractive destination for those seeking unique experiences.",
+    "capital": "Aizawl",
+    "language": "Mizo",
+    "area": "21,081 sq km",
+    "population": "1,203,468",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Mizo Handwoven Shawls",
+        "description": "Handwoven shawls with traditional Mizo designs.",
+        "price": "₹1,500",
+        "image": "mizo_handwoven_shawls.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Mizoram Bamboo Crafts",
+        "description": "Crafts made from bamboo by local artisans.",
+        "price": "₹900",
+        "image": "mizoram_bamboo_crafts.jpg"
+      }
+    ]
+  },
+  {
+    "id": "nagaland",
+    "name": "Nagaland",
+    "imageName": "nagaland",
+    "description": "Nagaland is known for its vibrant tribal culture, lush green hills, and unique festivals. The state features traditional crafts, music, and dance forms that reflect its rich cultural heritage. Nagaland's natural beauty and cultural diversity make it a fascinating destination for travelers.",
+    "capital": "Kohima",
+    "language": "English",
+    "area": "16,579 sq km",
+    "population": "2,263,000",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Naga Shawls",
+        "description": "Traditional shawls with intricate tribal patterns.",
+        "price": "₹1,200",
+        "image": "naga_shawls.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Nagaland Handicrafts",
+        "description": "Handcrafted items made by local artisans.",
+        "price": "₹800",
+        "image": "nagaland_handicrafts.jpg"
+      }
+    ]
+  },
+  {
+    "id": "odisha",
+    "name": "Odisha",
+    "imageName": "odisha",
+    "description": "Odisha is known for its rich cultural heritage, including ancient temples, classical dance forms, and vibrant festivals. The state features beautiful beaches, historical sites, and diverse art forms. Odisha's cultural richness and natural attractions make it a popular destination for travelers.",
+    "capital": "Bhubaneswar",
+    "language": "Odia",
+    "area": "155,707 sq km",
+    "population": "46,200,000",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Pipili Applique Work",
+        "description": "Traditional applique work from Pipili with vibrant colors.",
+        "price": "₹1,000",
+        "image": "pipili_applique_work.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Odisha Stone Carvings",
+        "description": "Intricately carved stone artifacts from Odisha.",
+        "price": "₹1,800",
+        "image": "odisha_stone_carvings.jpg"
+      }
+    ]
+  },
+  {
+    "id": "punjab",
+    "name": "Punjab",
+    "imageName": "punjab",
+    "description": "Punjab is known for its rich cultural heritage, including vibrant festivals, traditional music, and hearty cuisine. The state features lush agricultural fields, historic sites, and bustling cities. Punjab's cultural diversity and economic significance make it an important region in India.",
+    "capital": "Chandigarh",
+    "language": "Punjabi",
+    "area": "50,362 sq km",
+    "population": "30,741,000",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Punjabi Juttis",
+        "description": "Traditional handcrafted footwear with intricate designs.",
+        "price": "₹1,000",
+        "image": "punjabi_juttis.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Amritsari Pickles",
+        "description": "Spicy and tangy pickles made in Amritsar.",
+        "price": "₹500",
+        "image": "amritsari_pickles.jpg"
+      }
+    ]
+  },
+  {
+    "id": "rajasthan",
+    "name": "Rajasthan",
+    "imageName": "rajasthan",
+    "description": "Rajasthan is known for its rich history, majestic forts, and vibrant culture. The state features colorful festivals, traditional crafts, and architectural marvels. Rajasthan's diverse landscapes, including deserts and palaces, make it a popular destination for tourists.",
+    "capital": "Jaipur",
+    "language": "Hindi",
+    "area": "342,239 sq km",
+    "population": "80,265,000",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Jaipuri Quilts",
+        "description": "Beautiful quilts with traditional Jaipuri designs.",
+        "price": "₹1,800",
+        "image": "jaipuri_quilts.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Rajasthani Handicrafts",
+        "description": "Traditional handicrafts from Rajasthan, including pottery and textiles.",
+        "price": "₹1,200",
+        "image": "rajasthani_handicrafts.jpg"
+      }
+    ]
+  },
+  {
+    "id": "sikkim",
+    "name": "Sikkim",
+    "imageName": "sikkim",
+    "description": "Sikkim is known for its stunning natural beauty, including snow-capped mountains, lush valleys, and diverse flora and fauna. The state features a rich cultural heritage with traditional festivals, monasteries, and vibrant local traditions. Sikkim's pristine environment and cultural richness make it a unique destination.",
+    "capital": "Gangtok",
+    "language": "Nepali",
+    "area": "7,096 sq km",
+    "population": "610,577",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Sikkim Tea",
+        "description": "High-quality tea grown in the pristine environment of Sikkim.",
+        "price": "₹500",
+        "image": "sikkim_tea.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Sikkim Handicrafts",
+        "description": "Traditional handicrafts made by local artisans in Sikkim.",
+        "price": "₹1,000",
+        "image": "sikkim_handicrafts.jpg"
+      }
+    ]
+  },
+  {
+    "id": "tamil-nadu",
+    "name": "Tamil Nadu",
+    "imageName": "tamilnadu",
+    "description": "Tamil Nadu is known for its rich cultural heritage, including ancient temples, classical dance forms, and vibrant festivals. The state features beautiful beaches, historic landmarks, and a diverse culinary tradition. Tamil Nadu's cultural and natural attractions make it a significant destination in South India.",
+    "capital": "Chennai",
+    "language": "Tamil",
+    "area": "130,058 sq km",
+    "population": "72,147,030",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Kanchipuram Silk Sarees",
+        "description": "Luxurious silk sarees from Kanchipuram.",
+        "price": "₹3,000",
+        "image": "kanchipuram_silk_sarees.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Tamil Nadu Spices",
+        "description": "A blend of aromatic spices used in Tamil Nadu cuisine.",
+        "price": "₹350",
+        "image": "tamil_nadu_spices.jpg"
+      }
+    ]
+  },
+  {
+    "id": "telangana",
+    "name": "Telangana",
+    "imageName": "telangana",
+    "description": "Telangana is known for its vibrant culture, historic monuments, and diverse landscapes. The state features a blend of traditional and modern influences, with bustling cities, ancient temples, and rich culinary traditions. Telangana's cultural and historical significance make it an important region in South India.",
+    "capital": "Hyderabad",
+    "language": "Telugu",
+    "area": "112,077 sq km",
+    "population": "39,361,000",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Hyderabadi Biryani",
+        "description": "Famous biryani made with traditional spices and flavors.",
+        "price": "₹600",
+        "image": "hyderabadi_biryani.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Telangana Handicrafts",
+        "description": "Handcrafted items from Telangana, including textiles and pottery.",
+        "price": "₹1,000",
+        "image": "telangana_handicrafts.jpg"
+      }
+    ]
+  },
+  {
+    "id": "tripura",
+    "name": "Tripura",
+    "imageName": "tripura",
+    "description": "Tripura is known for its scenic landscapes, including lush green hills and ancient temples. The state features a rich cultural heritage with traditional crafts, festivals, and music. Tripura's natural beauty and cultural diversity make it a unique destination in Northeast India.",
+    "capital": "Agartala",
+    "language": "Bengali",
+    "area": "10,486 sq km",
+    "population": "4,171,000",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Tripuri Handloom",
+        "description": "Handwoven textiles from Tripura with traditional designs.",
+        "price": "₹1,200",
+        "image": "tripuri_handloom.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Tripura Bamboo Crafts",
+        "description": "Crafts made from bamboo by local artisans.",
+        "price": "₹800",
+        "image": "tripura_bamboo_crafts.jpg"
+      }
+    ]
+  },
+  {
+    "id": "uttar-pradesh",
+    "name": "Uttar Pradesh",
+    "imageName": "u",
+    "description": "Uttar Pradesh is known for its rich history, cultural heritage, and vibrant festivals. The state features important historical sites, including the Taj Mahal, and a diverse range of traditional crafts and cuisine. Uttar Pradesh's cultural and historical significance makes it an important region in India.",
+    "capital": "Lucknow",
+    "language": "Hindi",
+    "area": "243,286 sq km",
+    "population": "220,134,000",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Agra Marble",
+        "description": "Beautiful marble artifacts and inlays from Agra.",
+        "price": "₹2,000",
+        "image": "agra_marble.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Lucknow Chikan Work",
+        "description": "Traditional embroidery work from Lucknow.",
+        "price": "₹1,500",
+        "image": "lucknow_chikan_work.jpg"
+      }
+    ]
+  },
+  {
+    "id": "uttarakhand",
+    "name": "Uttarakhand",
+    "imageName": "uttarakhand",
+    "description": "Uttarakhand is known for its scenic beauty, including the Himalayas, serene lakes, and pilgrimage sites. The state features a blend of natural attractions and cultural heritage, with opportunities for adventure tourism and spiritual experiences. Uttarakhand's natural landscapes and cultural significance make it a popular destination for travelers.",
+    "capital": "Dehradun",
+    "language": "Hindi",
+    "area": "53,483 sq km",
+    "population": "1,098,000",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Uttarakhand Woolens",
+        "description": "Warm woolen garments made in Uttarakhand.",
+        "price": "₹1,500",
+        "image": "uttarakhand_woolens.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Dehradun Tea",
+        "description": "High-quality tea grown in the Dehradun region.",
+        "price": "₹400",
+        "image": "dehradun_tea.jpg"
+      }
+    ]
+  },
+  {
+    "id": "west-bengal",
+    "name": "West Bengal",
+    "imageName": "westbangal",
+    "description": "West Bengal is known for its rich cultural heritage, including classical arts, literature, and cuisine. The state features historical landmarks, vibrant festivals, and scenic beauty, including the Sundarbans and the Himalayan foothills. West Bengal's cultural and natural attractions make it a significant region in Eastern India.",
+    "capital": "Kolkata",
+    "language": "Bengali",
+    "area": "88,752 sq km",
+    "population": "100,000,000",
+    "products": [
+      {
+        "id": "product1",
+        "name": "Kolkata Sweets",
+        "description": "Famous sweets from Kolkata, including rasgulla and sandesh.",
+        "price": "₹500",
+        "image": "kolkata_sweets.jpg"
+      },
+      {
+        "id": "product2",
+        "name": "Sarees from Shantipur",
+        "description": "Beautiful sarees with traditional designs from Shantipur.",
+        "price": "₹1,800",
+        "image": "sarees_from_shantipur.jpg"
+      }
+    ]
+  }
+]
